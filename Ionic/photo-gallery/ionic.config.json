@@ -1,0 +1,11 @@
+{
+  "name": "photo-gallery",
+  "integrations": {
+    "capacitor": {
+      "enabled": false
+    },
+    "cordova": {}
+  },
+  "type": "angular",
+  "id": "bb69e40f"
+}
