@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "angular-complete-learn": {
+      "hosting": {
+        "receipe-app": [
+          "angular-complete-learn"
+        ]
+      }
+    }
+  }
+}
